@@ -31,7 +31,6 @@ class CalcAdapter{
     }
 }
 
-
 const oldCalc = new OldCalc()
 console.log(oldCalc.operations(10,5,'add'))
 
